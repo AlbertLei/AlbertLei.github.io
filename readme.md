@@ -1,4 +1,4 @@
-<p><img src="fig/portrait-min.png" style="max-width:30%;min-width:100px;float:right;" alt="Haoran's portrait" /></p>
+<p><img src="fig/portrait-min.png" style="max-width:25%;min-width:100px;float:right;" alt="Haoran's portrait" /></p>
 
 Haoran LEI <br>
 Assistant professor of Economics <br>
