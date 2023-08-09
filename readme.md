@@ -22,9 +22,9 @@ Email: hleiaa ατ connect.ust.hk <br>
 ## Unpublished
 
 2. [The optimality of (stochastic) veto delegation](https://arxiv.org/abs/2208.14829), 2023<br>
-   with Xiaoxiao Hu
+   with Xiaoxiao Hu. Revise and Resubmit, *GEB* 
 
-1. Information transmission in monopolistic credence goods markets, 2023<br>
+1. [Information transmission in monopolistic credence goods markets](https://arxiv.org/abs/2303.13295), 2023<br>
    with Xiaoxiao Hu
 
 1. Sequential screening meets last-minute sales, 2021
