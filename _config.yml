@@ -2,5 +2,7 @@ remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Haoran LEI
-description: Haoran's academic page
+description: I work on and am fascinated with econ theory
 show_downloads: false
+header_pages:
+  - cv.md
