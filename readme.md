@@ -1,12 +1,11 @@
 <p><img src="fig/portrait-min.png" style="max-width:25%;min-width:100px;float:right;" alt="Haoran's portrait" /></p>
 
-# Haoran LEI
-
+**Haoran Lei** <br>
 Assistant professor of Economics <br>
 Hunan University <br>
 
 Email: hleiaa ατ connect.ust.hk <br>
-[CV Online](cv)
+[ [CV] ](cv)
 
 ## Published
 
