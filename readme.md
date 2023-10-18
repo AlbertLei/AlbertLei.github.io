@@ -7,7 +7,9 @@ Hunan University <br>
 Email: hleiaa ατ connect.ust.hk <br>
 [ [CV] ](cv)
 
-## Published
+## Papers
+
+- **Published**
 
 1. [Delegation and information disclosure with unforeseen contingencies], 2021 <br>
    with Xiaojian Zhao, *B.E. Journal of Theoretical Economics (Special Issue on Unawareness)*
@@ -18,12 +20,15 @@ Email: hleiaa ατ connect.ust.hk <br>
 ["Introduction to the Special Issue on Unawareness"]: https://www.degruyter.com/document/doi/10.1515/bejte-2021-0078/html
 
 
-## Unpublished
+- **Unpublished**
 
 2. [The optimality of (stochastic) veto delegation](https://arxiv.org/abs/2208.14829), 2023<br>
    with Xiaoxiao Hu. Revise and Resubmit, *GEB* 
 
 1. [Information transmission in monopolistic credence goods markets](https://arxiv.org/abs/2303.13295), 2023<br>
+   with Xiaoxiao Hu
+
+1. [Credibility in Credence Goods Markets](https://arxiv.org/abs/2310.09544), 2023<br>
    with Xiaoxiao Hu
 
 1. Sequential screening meets last-minute sales, 2021
