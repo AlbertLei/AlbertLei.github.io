@@ -23,6 +23,7 @@ Email: hleiaa ατ connect.ust.hk <br>
 **Unpublished**
 
 <!-- HTML5 attribute that changes start number https://stackoverflow.com/a/48612359 -->
+
 {:start="2"}
 2. [The optimality of (stochastic) veto delegation](https://arxiv.org/abs/2208.14829), 2023<br>
    with Xiaoxiao Hu. Revise and Resubmit, *GEB* 
