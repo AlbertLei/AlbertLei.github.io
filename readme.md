@@ -38,4 +38,4 @@ Email: hleiaa ατ connect.ust.hk <br>
 
 ## Other stuff
 
-My [Chinese webpage](zh)
+- My [Chinese webpage](cn)
