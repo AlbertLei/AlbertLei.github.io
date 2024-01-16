@@ -7,6 +7,11 @@ Hunan University <br>
 Email: hleiaa ατ connect.ust.hk <br>
 [ [CV] ](cv)
 
+- 2024-01-18: I will present [Information transmission in monopolistic credence goods markets](https://arxiv.org/abs/2303.13295) at the [Webinar Series on Credence Goods and Expert Markets][cg-webinar]
+
+[cg-webinar]: https://www.uibk.ac.at/credence-goods/events/webinar-cg-em/index.html.en
+
+
 ## Papers
 
 **Published**
