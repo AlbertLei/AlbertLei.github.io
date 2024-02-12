@@ -56,10 +56,11 @@ Haoran LEI's CV, 2023 Oct.
 -->
 
 ## Presentations
+- 2024: Webinar Series on Credence Goods and Expert Markets
 
 - 2023: Hunan U
 
-- 2022: Asian Meeting of the Econometric Society, Hunan U, 2022 Conference on Mechanism and Institution Design
+- 2022: Asian Meeting of the Econometric Society, Hunan U, 2022 Conference on Mechanism and Institution Design, APIOS
 
 - 2021: Zoom Mini Workshops on Unawareness 2021, Hunan U, Huazhong University of Science and Technology
 
@@ -104,4 +105,4 @@ https://albertlei.github.io/paper/teaching/Report_ECON2103.pdf
 
 - **Language:** Mandarin (native), English (Fluent), French (Intermediate in writing/reading, basic in speaking), Cantonese (Intermediate)
 
-- **Programming:** R, Python, Vim, Git
+- **Programming:** R, Python
