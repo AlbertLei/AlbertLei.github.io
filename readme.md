@@ -7,10 +7,11 @@ Hunan University <br>
 Email: hleiaa ατ connect.ust.hk <br>
 [ [CV] ](cv)
 
+<!--
 - 2024-01-18: I will present [Information transmission in monopolistic credence goods markets](https://arxiv.org/abs/2303.13295) at the [Webinar Series on Credence Goods and Expert Markets][cg-webinar]
 
 [cg-webinar]: https://www.uibk.ac.at/credence-goods/events/webinar-cg-em/index.html.en
-
+-->
 
 ## Papers
 
@@ -30,17 +31,13 @@ Email: hleiaa ατ connect.ust.hk <br>
 <!-- HTML5 attribute that changes start number https://stackoverflow.com/a/48612359 -->
 
 {:start="2"}
-2. [The optimality of (stochastic) veto delegation](https://arxiv.org/abs/2208.14829), 2023<br>
+1. [The optimality of (stochastic) veto delegation](https://arxiv.org/abs/2208.14829), 2024<br>
    with Xiaoxiao Hu. Revise and Resubmit, *GEB* 
 
 1. [Information transmission in monopolistic credence goods markets](https://arxiv.org/abs/2303.13295), 2023<br>
    with Xiaoxiao Hu
 
-1. [Credibility in Credence Goods Markets](https://arxiv.org/abs/2310.09544), 2023<br>
+1. [Credibility in Credence Goods Markets](https://arxiv.org/abs/2310.09544), 2024<br>
    with Xiaoxiao Hu
 
 1. Sequential screening meets last-minute sales, 2021
-
-## Other stuff
-
-- My [Chinese webpage](cn)
