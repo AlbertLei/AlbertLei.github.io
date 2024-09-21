@@ -52,7 +52,7 @@ h5 { font-size: 1.0em; font-weight: 400; color: #888; }
 h6 { font-size: 1.0em; font-weight: 600; display: inline; }
 h6 + p { display: inline; }
 
-h1{
+h1, h2{
   text-align: center;
 }
 
